@@ -12,4 +12,4 @@ Branch off Master to create CodeHeight Solutions, LLC capability statement.
 
 ## Preview
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/screenshotbranch.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/screenshotbranch.png/)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight/assets/images/screenshotbranch.png)](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight/assets/images/screenshotbranch.png/)

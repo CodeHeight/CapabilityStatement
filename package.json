@@ -1,0 +1,28 @@
+{
+    "title": "Capability Statement",
+    "name": "capability-statement",
+    "version": "1.0.0",
+    "description": "A capability statement HTML template built with Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "capability statement",
+        "template"
+    ],
+    "homepage": "https://www.codeheight.com",
+    "bugs": {
+        "url": "https://github.com/codeheight/CapabilityStatement/issues",
+        "email": "josh.yates@codeheight.com"
+    },
+    "license": "MIT",
+    "author": "Josh Yates",
+    "contributors": [
+        "Josh Yates (http://joshyates.me/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codeheight/CapabilityStatement.git"
+    }
+}

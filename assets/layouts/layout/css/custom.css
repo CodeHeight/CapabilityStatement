@@ -17,3 +17,55 @@
     display: inline-block;
     height: auto;
 }
+
+.img-thumbnail-sba {
+    width: 125px;
+    padding: 4px;
+    line-height: 1.42857;
+    border: 0px;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    height: auto; 
+}
+
+.img-thumbnail-hubzone {
+    width: 150px;
+    padding: 4px;
+    line-height: 1.42857;
+    border: 0px;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    height: auto; 
+}
+
+.img-thumbnail-microsoft {
+    width: 175px;
+    padding: 4px;
+    line-height: 1.42857;
+    border: 0px;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    height: auto; 
+}
+
+.img-thumbnail-afcea {
+    width: 75px;
+    padding: 4px;
+    line-height: 1.42857;
+    border: 0px;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    height: auto; 
+}

@@ -1,6 +1,9 @@
 ### Capability Statement
 
-To use the bootstrap grid system for creating my company's capability statement.
+To use the bootstrap grid system for creating my company's capability statement.  Use the link below to download the capability statement in pdf file format:
+
+[Download PDF](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/docs/CodeHeight_Solutions.pdf)
+
 
 ## CodeHeight Solutions, LLC
 

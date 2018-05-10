@@ -5,7 +5,7 @@ Use the link below to download the capability statement in pdf file format:
 
 [Click here to download PDF](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/docs/CodeHeight_Solutions.pdf)
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/images/download.png))](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/images/download.png)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/images/download.png)](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/images/download.png)
 
 ## CodeHeight Solutions, LLC
 

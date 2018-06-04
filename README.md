@@ -17,13 +17,13 @@ Use the link below to download the capability statement in pdf file format:
 
 [http://bit.ly/CHsdvosb](http://bit.ly/CHsdvosb)
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png = 110x115)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png)
 
 ## HUBZone
 
 [assets > docs > verifications](https://github.com/CodeHeight/CapabilityStatement/tree/master/assets/docs/verifications)
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png = 100x100)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)
 
 ## Status
 

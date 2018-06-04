@@ -1,6 +1,11 @@
 ### Capability Statement
 
-To use the bootstrap grid system for creating my company's capability statement.
+To use the bootstrap grid system for creating my company's capability statement.  
+Use the link below to download the capability statement in pdf file format:
+
+[Click here to download PDF](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/docs/CodeHeight_Solutions.pdf)
+
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/images/download.png))](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/images/download.png)/)
 
 ## CodeHeight Solutions, LLC
 
@@ -12,4 +17,4 @@ Branch off Master to create CodeHeight Solutions, LLC capability statement.
 
 ## Preview
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight/assets/images/screenshotbranch2.png)](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight/assets/images/screenshotbranch2.png/)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/images/screenshot2.1.png)](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.1/assets/images/screenshot2.1.png/)

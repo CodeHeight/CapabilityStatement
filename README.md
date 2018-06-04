@@ -13,10 +13,12 @@ Use the link below to download the capability statement in pdf file format:
 
 ## SDVOSB VIP Vendor profile
 
-<a href="https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/vip.png">
-<img src="https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/vip.png" align="left" height="110" width="115" ></a>
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/vip.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/vip.png)
 
 [http://bit.ly/CHsdvosb](http://bit.ly/CHsdvosb)
+
+<a href="https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png">
+<img src="https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png" align="left" height="110" width="115" ></a><br />
 
 [![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png)
 
@@ -25,7 +27,7 @@ Use the link below to download the capability statement in pdf file format:
 [assets > docs > verifications](https://github.com/CodeHeight/CapabilityStatement/tree/master/assets/docs/verifications)
 
 <a href="https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png">
-<img src="https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png" align="left" height="100" width="100" ></a>
+<img src="https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png" align="left" height="100" width="100" ></a><br />
 
 ## Status
 

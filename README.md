@@ -1,19 +1,29 @@
 ### Capability Statement 
 
-To use the bootstrap grid system for creating my company's capability statement.  
+To use the bootstrap grid system for CodeHeight Solutions LLC capability statement.  
 Use the link below to download the capability statement in pdf file format:
 
-[Click here to download Capability Statement PDF](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.2/assets/docs/CodeHeight_Solutions.pdf)
+[Click here to download Capability Statement PDF](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/docs/CodeHeight_Solutions.pdf)
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.2/assets/images/download.png)](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.2/assets/images/download.png)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/download.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/download.png)
 
 ## SBA DSBS profile
 
 [http://bit.ly/sbadsbs](http://bit.ly/sbadsbs)
 
-## CodeHeight Solutions, LLC
+## SDVOSB VIP Vendor profile
 
-Branch off Master to create CodeHeight Solutions, LLC capability statement.
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/vip.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/vip.png)
+
+[http://bit.ly/CHsdvosb](http://bit.ly/CHsdvosb)
+
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/sdvosb.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/sdvosb.png)
+
+## HUBZone
+
+[assets > docs > verifications](https://github.com/CodeHeight/CapabilityStatement/tree/master/assets/docs/verifications)
+
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/hubzone.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/hubzone.png)
 
 ## Status
 
@@ -21,4 +31,4 @@ Branch off Master to create CodeHeight Solutions, LLC capability statement.
 
 ## Preview
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.2/assets/images/screenshot2.2.png)](https://github.com/CodeHeight/CapabilityStatement/blob/CodeHeight2.2/assets/images/screenshot2.2.png/)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/screenshot2.1.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/screenshot2.1.png)

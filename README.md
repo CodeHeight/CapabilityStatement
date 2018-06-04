@@ -13,17 +13,17 @@ Use the link below to download the capability statement in pdf file format:
 
 ## SDVOSB VIP Vendor profile
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/vip.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/vip.png)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/vip.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/vip.png)
 
 [http://bit.ly/CHsdvosb](http://bit.ly/CHsdvosb)
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/sdvosb.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/sdvosb.png)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png)
 
 ## HUBZone
 
 [assets > docs > verifications](https://github.com/CodeHeight/CapabilityStatement/tree/master/assets/docs/verifications)
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/hubzone.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/sba/hubzone.png)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)
 
 ## Status
 

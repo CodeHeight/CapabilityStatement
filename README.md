@@ -15,7 +15,7 @@ Use the link below to download the capability statement in pdf file format:
 
 [![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/vip.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/vip.png)
 
-[http://bit.ly/CHsdvosb](http://bit.ly/CHsdvosb)
+[http://bit.ly/vipvet](http://bit.ly/vipvet)
 
 [![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/sdvosb.png)
 

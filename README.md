@@ -29,7 +29,7 @@ Use the link below to download the capability statement in pdf file format:
 
 [assets > docs > certifications](https://github.com/CodeHeight/CapabilityStatement/tree/master/assets/docs/certifications)
 
-[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/Certifications/row.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/Certifications/row.png)
 
 ## Status
 

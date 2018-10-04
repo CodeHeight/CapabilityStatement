@@ -25,6 +25,12 @@ Use the link below to download the capability statement in pdf file format:
 
 [![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)
 
+## Certifications
+
+[assets > docs > certifications](https://github.com/CodeHeight/CapabilityStatement/tree/master/assets/docs/certifications)
+
+[![Preview](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)](https://github.com/CodeHeight/CapabilityStatement/blob/master/assets/images/SBA/hubzone.png)
+
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/codeheight/capabilitystatement/master/LICENSE)
